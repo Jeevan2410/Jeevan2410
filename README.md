@@ -33,7 +33,17 @@ In review: [libredb#1571](https://github.com/libredb/libredb-studio/pull/1571), 
 | **[BookNest](https://github.com/Jeevan2410/BookNest)** · [live](https://book-nest-lemon-eight.vercel.app) | A bookstore and book-box subscription site: browse by genre, build a box, gifts, membership, accounts and checkout | React, Supabase, Framer Motion |
 | **[achievement-tracker](https://github.com/Jeevan2410/achievement-tracker)** | CLI that shows progress toward GitHub achievement tiers | TypeScript, GitHub REST and GraphQL |
 
-College side projects, rebuilt with today's code and motion: **[Weather](https://github.com/Jeevan2410/WeatherApp)** · [live](https://weather-app-lac-iota-59.vercel.app) (animated sky, Open-Meteo, canvas rain and snow), **[Calculator](https://github.com/Jeevan2410/Calculator)** · [live](https://calculator-six-iota-56.vercel.app) (safe parser instead of `eval`, history, 3D tilt), **[Reelhouse](https://github.com/Jeevan2410/Netflix-Clone)** · [live](https://jeevan2410.github.io/Netflix-Clone/) (TV show browser on TVmaze, View Transitions), **[Halcyon One](https://github.com/Jeevan2410/Landing-Page)** · [live](https://jeevan2410.github.io/Landing-Page/) (3D smartwatch in Three.js that turns as you scroll) and **[To-do](https://github.com/Jeevan2410/TO-DO-LIST)** · [live](https://jeevan2410.github.io/TO-DO-LIST/) (drag to reorder, undo, FLIP animations).
+### My first college projects, rebuilt in 2026
+
+| Project | What changed |
+|---|---|
+| **[Weather](https://github.com/Jeevan2410/WeatherApp)** · [live](https://weather-app-lac-iota-59.vercel.app) | Animated sky with canvas rain and snow; Open-Meteo instead of a committed API key |
+| **[Calculator](https://github.com/Jeevan2410/Calculator)** · [live](https://calculator-six-iota-56.vercel.app) | A safe parser instead of `eval`, history, keyboard input, 3D tilt |
+| **[To-do](https://github.com/Jeevan2410/TO-DO-LIST)** · [live](https://jeevan2410.github.io/TO-DO-LIST/) | Drag to reorder, undo, FLIP animations; JSON storage instead of saved HTML |
+| **[Reelhouse](https://github.com/Jeevan2410/Netflix-Clone)** · [live](https://jeevan2410.github.io/Netflix-Clone/) | A copied sign-up page turned into an original TV show browser on TVmaze |
+| **[Halcyon One](https://github.com/Jeevan2410/Landing-Page)** · [live](https://jeevan2410.github.io/Landing-Page/) | A concept smartwatch modelled in Three.js that turns as you scroll |
+| **[Jeevan Travels](https://github.com/Jeevan2410/Travel-Website-)** · [live](https://travel-website-ashen-seven.vercel.app) | A trip planner on a 3D dotted globe with live weather and share links |
+| **[JeevanKitchen](https://github.com/Jeevan2410/Food-Website)** · [live](https://food-website-lovat-pi.vercel.app) | Recipes with a cook mode, one-tap timers and a screen that stays awake |
 
 ## Tools I use
 
