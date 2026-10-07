@@ -1,4 +1,8 @@
-# Hi, I'm Jeevan 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Jeevan, full-stack TypeScript developer and open-source contributor" src="assets/header-dark.svg" width="100%">
+</picture>
 
 Full-stack developer working mostly in **TypeScript**: Next.js and React on the front, Node/Express and Supabase/Postgres or MongoDB behind it, deployed on Vercel and Cloudflare. I like shipping things people can actually open and use, and I contribute fixes to open-source projects I learn from.
 
@@ -33,3 +37,9 @@ TypeScript · JavaScript · React · Next.js · Astro · Node.js · Express · S
 ## Open to
 
 Freelance projects and junior / internship roles in full-stack web development.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img alt="" src="assets/footer-dark.svg" width="100%">
+</picture>

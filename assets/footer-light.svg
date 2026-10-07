@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Decorative wave">
+<title>Decorative wave</title>
+<defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#0d9488"/><stop offset=".5" stop-color="#0284c7"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<style>
+  .w1 { animation: slide 10s linear infinite; }
+  .w2 { animation: slide 16s linear infinite reverse; }
+  /* Both paths span 0..1800 with a 600px wavelength, so sliding by one wavelength loops seamlessly
+     in either direction while the visible 0..1200 stays covered. */
+  @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="w1" opacity=".35"><path d="M0 50 Q150 20 300 50 T600 50 T900 50 T1200 50 T1500 50 T1800 50 V90 H0Z" fill="url(#w)"/></g>
+<g class="w2" opacity=".55"><path d="M0 62 Q150 82 300 62 T600 62 T900 62 T1200 62 T1500 62 T1800 62 V90 H0Z" fill="url(#w)"/></g>
+</svg>
