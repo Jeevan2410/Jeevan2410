@@ -30,6 +30,8 @@ In review: [libredb#1561](https://github.com/libredb/libredb-studio/pull/1561), 
 | **[BookNest](https://github.com/Jeevan2410/BookNest)** · [live](https://book-nest-lemon-eight.vercel.app) | A bookstore and book-box subscription site: browse by genre, build a box, gifts, membership, accounts and checkout | React, Supabase, Framer Motion |
 | **[achievement-tracker](https://github.com/Jeevan2410/achievement-tracker)** | CLI that shows progress toward GitHub achievement tiers | TypeScript, GitHub REST and GraphQL |
 
+College side projects, rebuilt with today's code and motion: **[Weather](https://github.com/Jeevan2410/WeatherApp)** · [live](https://weather-app-lac-iota-59.vercel.app) (animated sky, Open-Meteo, canvas rain and snow) and **[Calculator](https://github.com/Jeevan2410/Calculator)** · [live](https://calculator-six-iota-56.vercel.app) (safe parser instead of `eval`, history, 3D tilt).
+
 ## Tools I use
 
 TypeScript · JavaScript · React · Next.js · Astro · Node.js · Express · Supabase · PostgreSQL · MongoDB · Tailwind CSS · Three.js · Vercel · Cloudflare
