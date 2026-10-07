@@ -30,7 +30,7 @@ In review: [libredb#1561](https://github.com/libredb/libredb-studio/pull/1561), 
 | **[BookNest](https://github.com/Jeevan2410/BookNest)** · [live](https://book-nest-lemon-eight.vercel.app) | A bookstore and book-box subscription site: browse by genre, build a box, gifts, membership, accounts and checkout | React, Supabase, Framer Motion |
 | **[achievement-tracker](https://github.com/Jeevan2410/achievement-tracker)** | CLI that shows progress toward GitHub achievement tiers | TypeScript, GitHub REST and GraphQL |
 
-College side projects, rebuilt with today's code and motion: **[Weather](https://github.com/Jeevan2410/WeatherApp)** · [live](https://weather-app-lac-iota-59.vercel.app) (animated sky, Open-Meteo, canvas rain and snow) and **[Calculator](https://github.com/Jeevan2410/Calculator)** · [live](https://calculator-six-iota-56.vercel.app) (safe parser instead of `eval`, history, 3D tilt).
+College side projects, rebuilt with today's code and motion: **[Weather](https://github.com/Jeevan2410/WeatherApp)** · [live](https://weather-app-lac-iota-59.vercel.app) (animated sky, Open-Meteo, canvas rain and snow), **[Calculator](https://github.com/Jeevan2410/Calculator)** · [live](https://calculator-six-iota-56.vercel.app) (safe parser instead of `eval`, history, 3D tilt) and **[To-do](https://github.com/Jeevan2410/TO-DO-LIST)** · [live](https://jeevan2410.github.io/TO-DO-LIST/) (drag to reorder, undo, FLIP animations).
 
 ## Tools I use
 
