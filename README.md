@@ -19,7 +19,9 @@ Merged:
 - **[libredb/libredb-studio#1562](https://github.com/libredb/libredb-studio/pull/1562)**: LibreDB connections refuse `:memory:` and name a missing directory clearly.
 - **[lingui/js-lingui#2703](https://github.com/lingui/js-lingui/pull/2703)**: the Vite plugin's native macro transform no longer fails on module ids with a query string (React Router framework mode).
 
-In review: [libredb#1571](https://github.com/libredb/libredb-studio/pull/1571), [reticle#1402](https://github.com/reticlehq/reticle/pull/1402), [corsair#1847](https://github.com/corsairdev/corsair/pull/1847).
+Shipped in a release: [reticle#1402](https://github.com/reticlehq/reticle/pull/1402), an absent check on a hidden element names `state: hidden` ([Reticle 3.6.0](https://github.com/reticlehq/reticle/releases/tag/v3.6.0)).
+
+In review: [libredb#1571](https://github.com/libredb/libredb-studio/pull/1571), [libredb#1595](https://github.com/libredb/libredb-studio/pull/1595), [corsair#1847](https://github.com/corsairdev/corsair/pull/1847).
 
 ## Projects
 
