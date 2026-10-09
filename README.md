@@ -17,11 +17,13 @@ Merged:
 - **[libredb/libredb-studio#1556](https://github.com/libredb/libredb-studio/pull/1556)**: Monitoring labels a Percona Server correctly instead of calling it MySQL.
 - **[libredb/libredb-studio#1561](https://github.com/libredb/libredb-studio/pull/1561)**: running a selected statement in the editor drops its trailing terminator on engines that take none, such as Oracle and Elasticsearch.
 - **[libredb/libredb-studio#1562](https://github.com/libredb/libredb-studio/pull/1562)**: LibreDB connections refuse `:memory:` and name a missing directory clearly.
+- **[libredb/libredb-studio#1571](https://github.com/libredb/libredb-studio/pull/1571)**: ClickHouse, Druid, libSQL and Couchbase name the refusal and the address when a server cannot be reached, instead of "fetch failed".
+- **[libredb/libredb-studio#1595](https://github.com/libredb/libredb-studio/pull/1595)**: CockroachDB functions and procedures no longer offer an Edit that every apply refused; the provider measures at connect whether the server runs the edit guard (verified on CockroachDB v26.3.2 and PostgreSQL 18.6).
 - **[lingui/js-lingui#2703](https://github.com/lingui/js-lingui/pull/2703)**: the Vite plugin's native macro transform no longer fails on module ids with a query string (React Router framework mode).
 
 Shipped in a release: [reticle#1402](https://github.com/reticlehq/reticle/pull/1402), an absent check on a hidden element names `state: hidden` ([Reticle 3.6.0](https://github.com/reticlehq/reticle/releases/tag/v3.6.0)).
 
-In review: [libredb#1571](https://github.com/libredb/libredb-studio/pull/1571), [libredb#1595](https://github.com/libredb/libredb-studio/pull/1595), [corsair#1847](https://github.com/corsairdev/corsair/pull/1847).
+In review: [corsair#1847](https://github.com/corsairdev/corsair/pull/1847).
 
 ## Projects
 
